@@ -1,4 +1,4 @@
-<h1 align="center">Hey.. I'm Asadbek 👋</h1>
+<h1 align="center">Hey.. I'm Azizbekk 👋</h1>
 
 ## 💡 About Me
 I am a Node.js developer from Uzbekistan. My technical skills primarily include programming languages such as Python, C, JavaScript, and TypeScript...
