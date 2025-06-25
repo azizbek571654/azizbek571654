@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hey.. I'm Asadbek 👋</h1>
 
-<!--
-**azizbek571654/azizbek571654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 About Me
+I am a Node.js developer from Uzbekistan. My technical skills primarily include programming languages such as Python, C, JavaScript, and TypeScript...
 
-Here are some ideas to get you started:
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/asadbek-zaynobiddinov-0098fb33a)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram)](https://t.me/zaynobiddinovasadbek)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Github Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=asadbekzaynobiddinov&show_icons=true&theme=radical)
+
+## 🛠 Programming Languages
+![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,py,html,css,mysql,mongodb,linux,git,vscode)
+
+## 🚀 Frameworks
+![My Frameworks](https://skillicons.dev/icons?i=express,nestjs,react)
