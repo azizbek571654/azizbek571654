@@ -5,7 +5,7 @@ I am a Node.js developer from Uzbekistan. My technical skills primarily include 
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/asadbek-zaynobiddinov-0098fb33a)
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram)](https://t.me/zaynobiddinovasadbek)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram)](https://t.me/bek_air02)
 
 ## 📈 Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asadbekzaynobiddinov&show_icons=true&theme=radical)
