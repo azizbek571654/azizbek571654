@@ -4,7 +4,7 @@
 I am a Node.js developer from Uzbekistan. My technical skills primarily include programming languages such as Python, C, JavaScript, and TypeScript...
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/asadbek-zaynobiddinov-0098fb33a)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/azizbek-mirzavaliyev-1aa1bb351/)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram)](https://t.me/bek_air02)
 
 ## 📈 Github Stats
