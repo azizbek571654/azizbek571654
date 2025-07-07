@@ -11,7 +11,7 @@ I am a Node.js developer from Uzbekistan. My technical skills primarily include 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asadbekzaynobiddinov&show_icons=true&theme=radical)
 
 ## 🛠 Programming Languages
-![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,py,html,css,mysql,mongodb,linux,git,vscode)
+##![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,py,html,css,mysql,mongodb,linux,git,vscode)
 
 ## 🚀 Frameworks
 ![My Frameworks](https://skillicons.dev/icons?i=express,nestjs,react)
